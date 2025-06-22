@@ -51,3 +51,24 @@ public class splash extends AppCompatActivity {
         });
     }
 }
+
+/*
+
+        // For Hide Action Bar
+        ActionBar actionBar = getSupportActionBar();
+        actionBar.hide();
+        //For Splash Screen
+        final Handler handler = new Handler();
+        handler.postDelayed(new Runnable() {
+            @Override
+            public void run() {
+                //Code here
+                Intent myIntent = new Intent(Splash.this, MainActivity.class);
+                startActivity(myIntent);
+                finish();
+            }
+        },5000);
+        //==================================
+        } // OnCreate Method Close Here ======================== Online https://bduidesign.blogspot.com/2024/11/splash-screen-android.html?fbclid=IwY2xjawLDwt5leHRuA2FlbQIxMABicmlkETFlZk5JU3FmMDhBWlhxTW9tAR642MpJbFyL0giP1gRPqKfiYaDe0BSqPFyBCGGnE6XThBAZwEvs3Iar1aQfVA_aem_PrHMNz-UFrbYaZY-Oeg2Lw
+
+        */
