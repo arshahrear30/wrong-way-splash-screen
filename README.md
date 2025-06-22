@@ -1,4 +1,4 @@
-<img width="346" alt="image" src="https://github.com/user-attachments/assets/78df975e-6a2a-43d4-93bf-3f3f9a2941f9" /># wrong-way-splash-screen
+# wrong-way-splash-screen
 // এই ওয়ে তে প্লাস স্ক্রিন দুইবার শো হচ্ছে .. একবার সাদা প্লাস স্ক্রিন যেটার ডিফল্টভাবে থাকে ..তারপর আমার কাস্টমটা আসতেছে .. আর যেহেতু এটা দুইবার শো করতেছে সেজন্য অ্যাপ ব্যান হয়ে যাবে । so এটা না ব্যবহার করাই ভালো
 1.Create a new project or open your old Project. 
 2.Create Empty Activity in your project. Set the activity name that(what) you want. Example : Splash.java 
