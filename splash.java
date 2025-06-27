@@ -52,7 +52,9 @@ public class splash extends AppCompatActivity {
     }
 }
 
-/*
+
+
+/* from website
 
         // For Hide Action Bar
         ActionBar actionBar = getSupportActionBar();
